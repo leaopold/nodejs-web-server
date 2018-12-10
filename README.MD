@@ -1,6 +1,6 @@
-# Nodejs Express bases Web App
+# Nodejs Web Application
 
-Basic Web App built using Nodejs, Express and Handbrake templates. This application allows the following operations:
+Basic Web Application built using Nodejs, Express and Handbrake templates. This application allows the following operations:
 - View a 'Home Page'
 - View a 'About Page'
 - View a 'Projects Page'
