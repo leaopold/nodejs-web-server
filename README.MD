@@ -16,7 +16,7 @@ Follow this link if unsure : https://docs.npmjs.com/downloading-and-installing-n
 
 Run the following command from the nodejs-web-server directory to see how the system works:
 
-node server.js and navigate to http://localhost:3000 to see how this all fits together - this is not a pretty app as I am not showcasing CSS but rather how a basic static website built with Nodejs fits together, and how easy this can be acomplished.
+node server.js and navigate to http://localhost:3000 to see how this all fits together - this is not a pretty app as I am not showcasing CSS but rather how a basic static website built with Nodejs fits together, and how easy this can be accomplished.
 
 To see an example of what the site looks like : https://secret-tor-26971.herokuapp.com/
 
